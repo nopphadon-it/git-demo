@@ -1,3 +1,3 @@
 # git-demo
 git-demo
- this line form remote
+ this line form remoted
